@@ -1,0 +1,35 @@
+ul{
+    margin: 5px;
+    padding: 0;
+    list-style-type: none;
+    overflow: hidden;
+    background-color: coral;
+
+}
+li{
+    float: left;
+}
+li a{
+    padding: 20px;
+    color: darkred;
+    font-family: "DejaVu Sans Mono";
+    font-size: 20px;
+    text-decoration: none;
+    display: block;
+
+}
+li a:hover{
+    background-color: #c52199;
+}
+.fruits{
+   border: 2px solid #1520dc;
+    text-align: center;
+    color: white;
+    background-color: red;
+    padding: 20px;
+    margin: 20px;
+}
+#school{
+    background-color: #42de16;
+
+}
